@@ -7,9 +7,6 @@
 ## 🌐 Socials:
 </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub><sub><sup>    </sup></sub>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Keneth_Macis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Keneth_Macis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keneth_Macis) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Keneth_Macis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Keneth_Macis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Keneth_Macis) 
 
-## 🏆 Trofeos de GitHub
-![](https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Recurso%201.png)
-
 ## Mis habilidades
 
 ### *Lenguajes de programación:*
@@ -42,12 +39,15 @@
     </tr>
     <tr>
       <td>Sistema de matriculas</td>
+      <td>Chatbot Zyxbot</td>
     </tr>
     <tr>
       <td><img src="https://github.com/KenethMacis05/sistema_escolar_jdlcm/blob/main/src/img/img-README/Pagina%20de%20inicio.png?raw=true"></a></td>
+      <td><img  width="500" src="https://github.com/IsseiSenpai/Doxyger/blob/main/MockupComputadora3.png?raw=true"></a></td>
     </tr>
     <tr>
-      <td>Sistema de matriculas para el colegio Jose de la Cruz Mena <a href="https://github.com/KenethMacis05/sistema_escolar_jdlcm?tab=readme-ov-file">Ver mas</a></td>
+      <td>Sistema de matriculas para el colegio Jose de la Cruz Mena <a href="https://github.com/KenethMacis05/sistema_escolar_jdlcm?tab=readme-ov-file">Ver mas</a>    
+      <td>Chatbot de asistencia sobre las universidades <a href="https://github.com/IsseiSenpai/Doxyger/blob/main/MockupComputadora3.png?raw=true">Ver mas</a></td>
     </tr>
   </tbody>
   <tfoot>

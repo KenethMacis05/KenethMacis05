@@ -36,10 +36,22 @@
       <td><a href="https://isseisenpai.github.io/CafeLaurent/"><img src="https://github.com/IsseiSenpai/CafeLaurent/raw/main/img/Local.png"></a></td>
       <td><a href=""><img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Prototipo.png"></a></td>
     </tr>
+    <tr>
+      <td>Esta es una cafeteria relacionada al mundo del anime <a href="https://github.com/fgarcia2024/TeChettos-">Ver mas</a></td>
+      <td>Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes <a href="https://github.com/KenethMacis05/cafeLaurent">Ver mas</a></td>
+    </tr>
+    <tr>
+      <td>Sistema de matriculas</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/KenethMacis05/sistema_escolar_jdlcm/blob/main/src/img/img-README/Pagina%20de%20inicio.png?raw=true"></a></td>
+    </tr>
+    <tr>
+      <td>Sistema de matriculas para el colegio Jose de la Cruz Mena <a href="https://github.com/KenethMacis05/sistema_escolar_jdlcm?tab=readme-ov-file">Ver mas</a></td>
+    </tr>
   </tbody>
   <tfoot>
-      <td>Esta es una cafeteria relacionada al mundo del anime</td>
-      <td>Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes</td>
+      
   </tfoot>
 </table> 
 

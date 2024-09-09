@@ -55,33 +55,6 @@
   </tfoot>
 </table> 
 
-## Certification
-<table style="width:100%">
-<tr>
-  <td>
-     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Certificado-Curso-Profesional-Desarrollo-Web.jpg" style="max-width: 100%;">
-  </td>
-  <td>
-     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/html.png">
-   </td>
-  <td>
-     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/css.png">
-  </td>
- </tr>
-  
-<tr>
-  <td>
-     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Imagen1.png">
-  </td>
-  <td>
-     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Certificado%20-%20Curso%20Profesional%20de%20Git_page-0001.jpg">
-  </td>
-  <td>
-     <img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Certificado-Curso-para-iniciar-a-dibujar-con-CSS.jpg">
-  </td>
-</tr>
-</table>
-
 ### 🔝 Informe de mayor contribución
 ![](https://github-contributor-stats.vercel.app/api?username=IsseiSenpai&limit=5&theme=radical&combine_all_yearly_contributions=true)
 

@@ -34,8 +34,8 @@
       <td><a href=""><img src="https://github.com/IsseiSenpai/IsseiSenpai/blob/main/Certificados_IMG/Certificados_IMG/Prototipo.png"></a></td>
     </tr>
     <tr>
-      <td>Esta es una cafeteria relacionada al mundo del anime <a href="https://github.com/fgarcia2024/TeChettos-">Ver mas</a></td>
-      <td>Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes <a href="https://github.com/KenethMacis05/cafeLaurent">Ver mas</a></td>
+      <td>Esta es una cafeteria relacionada al mundo del anime <a href="https://github.com/KenethMacis05/cafeLaurent">Ver mas</a></td>
+      <td>Este es un proyecto que tiene como fin promover el aprendizaje en los jovenes <a href="https://github.com/fgarcia2024/TeChettos-?tab=readme-ov-file">Ver mas</a></td>
     </tr>
     <tr>
       <td>Sistema de matriculas</td>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>Sistema de matriculas para el colegio Jose de la Cruz Mena <a href="https://github.com/KenethMacis05/sistema_escolar_jdlcm?tab=readme-ov-file">Ver mas</a>    
-      <td>Chatbot de asistencia sobre las universidades <a href="https://github.com/IsseiSenpai/Doxyger/blob/main/MockupComputadora3.png?raw=true">Ver mas</a></td>
+      <td>Chatbot de asistencia sobre las universidades <a href="https://github.com/KenethMacis05/zyxbot">Ver mas</a></td>
     </tr>
   </tbody>
   <tfoot>
